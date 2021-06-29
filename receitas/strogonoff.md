@@ -4,5 +4,5 @@
  - numero 2
  - numero 3
 
- ###modo de preparo
+ ### modo de preparo da Receita
  strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.strogonoff.md.
